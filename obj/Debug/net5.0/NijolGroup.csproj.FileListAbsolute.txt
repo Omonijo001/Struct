@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.exe
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.deps.json
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.runtimeconfig.json
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.runtimeconfig.dev.json
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.dll
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\bin\Debug\net5.0\NijolGroup.pdb
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.AssemblyInfo.cs
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.dll
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\refint\NijolGroup.dll
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.pdb
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\NijolGroup.genruntimeconfig.cache
+C:\Users\USER\Desktop\NijolGroup\NijolGroup\obj\Debug\net5.0\ref\NijolGroup.dll
